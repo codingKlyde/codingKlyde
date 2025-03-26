@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 A curious and passionate individual.<br>💖 Enjoys working with C# and its related technologies.<br>💻 3 years in freelancing.<br>⌚ Manages time and tasks efficiently.<br>🎮 Gamer.<br>🐈 Loves cat.
+👨‍💻 A curious and passionate individual<br>💖 Enjoys working with C# and its related technologies<br>💻 3 years in freelancing<br>⌚ Manages time and tasks efficiently<br>🎮 Gamer<br>🐈 Loves cat
 
 
 ## 🌐 Socials:
